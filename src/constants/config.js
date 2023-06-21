@@ -4,7 +4,7 @@ export const defaultMenuType = 'menu-default' // 'menu-default', 'menu-sub-hidde
 export const adminRoot = '/dragndrop';
 export const searchPath = `${adminRoot}/pages/miscellaneous/search`
 export const buyUrl = 'https://1.envato.market/nEyZa'
-export const apiUrl = window.location.hostname.includes('localhost') ? process.env.VUE_APP_LOCAL_API_URL : VUE_APP_REMOTE_API_URL;
+export const apiUrl = window.location.hostname.includes('localhost') ? 'http://localhost:8081' : 'https://dragn-drop-server-458g.onrender.com';
 
 export const subHiddenBreakpoint = 1440
 export const menuHiddenBreakpoint = 768
