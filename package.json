@@ -2,7 +2,7 @@
   "name": "dragn-drop-client",
   "version": "1.0.0",
   "description": "Frontend Vue",
-  "author": "Semih Ataman / Gulsum Simge Bozdogan",
+  "author": "Semih Ataman",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
