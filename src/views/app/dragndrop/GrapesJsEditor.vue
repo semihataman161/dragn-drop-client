@@ -3,9 +3,8 @@
 </template>
 
 <script>
-import grapesjs from "grapesjs";
+import grapesjs from "grapesjs/dist/grapes.min.js";
 import "grapesjs/dist/css/grapes.min.css";
-import "grapesjs/dist/grapes.min.js";
 import grapesjspresetwebpage from "grapesjs-preset-webpage";
 import grapesjsblocks from "grapesjs-blocks-basic";
 import { apiUrl } from "@/constants/config";
