@@ -5,7 +5,6 @@ import { contentTypes } from "@/constants/contentTypes";
 const { JSON } = contentTypes;
 
 const api = axios.create({
-  withCredentials: true,
   headers: {
     "Content-Type": JSON,
   },
