@@ -54,7 +54,7 @@
     "copy-webpack-plugin": "^6.0.3",
     "sass": "^1.56.1",
     "sass-loader": "^9.0.2",
-    "vue-loader": "^15.9.7",
+    "vue-loader": "^17.4.2",
     "vue-template-compiler": "^2.6.14"
   },
   "postcss": {
@@ -63,7 +63,6 @@
     }
   },
   "engines": {
-    "npm": ">=6.14.16 <9.0.0",
     "node": ">=18.0.0"
   },
   "browserslist": [
